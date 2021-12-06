@@ -1,5 +1,5 @@
 # Eigenfaces
-- This is the course of NTU 2021fall DLCV hw0
+- This is hw0 for the course of NTU 2021fall DLCV
 # My method
 - First, I use Singular Value Decompsition(SVD) to find the most important eigenvectors. And, plot the top-4 eigenfaces and the mean face below.
 - Next, I use these eigenfaces to reconstruct the face.
